@@ -13,7 +13,7 @@ The application is built using a combination of the following technologies:
   <li>JavaScript</li>
 </ul>
 
-No frameworks or libraries were used. :)
+No frameworks or libraries were used. :smiley:
 
 ## User Stories & Flowchart
 
