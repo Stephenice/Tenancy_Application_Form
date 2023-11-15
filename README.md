@@ -3,16 +3,21 @@ The main goal of this application is to make it easy to collect all the importan
 
 
 ## Technologies Used
-The application is built using a combination of the following technologies:
-PHP
-MySQL
-HTML
-CSS
-JavaScript
 
-No frameworks or libraries were used. 
+The application is built using a combination of the following technologies:
+<ul>
+  <li>PHP</li>
+  <li>MySQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+No frameworks or libraries were used. :)
 
 
 ## Installation
 
 ## User Stories & Flowchart
+
+<img src="https://github.com/Stephenice/Tenancy_Application_Form/blob/main/src/images/Untitled%20(2).png"  alt="javascript" width="600" height="400"/>
