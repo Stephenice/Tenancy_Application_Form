@@ -1,5 +1,5 @@
 <?php
-include 'dbconn.php'; // Include your database connection
+include 'dbconn.php'; // Include for database connection
 
 function loginUser($conn, $userid, $pass)
 {

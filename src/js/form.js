@@ -1,3 +1,12 @@
+/*
+  This code controls a multi-step form using JavaScript.
+  It initializes variables to track buttons, progress bar, form steps, and their respective steps.
+  The 'nextBtns' and 'prevBtns' handle the progression and regression of form steps respectively.
+  The 'updateFormSteps' function updates the visibility of form steps based on the step index.
+  The 'updateProgressbar' function manages the progress indicator on the form.
+  It adds or removes classes to show active/inactive steps and adjusts the width of the progress bar.
+*/
+
 const prevBtns = document.querySelectorAll(".btn-prev");
 const nextBtns = document.querySelectorAll(".btn-next");
 const progress = document.getElementById("progress");
