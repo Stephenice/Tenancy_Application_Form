@@ -15,9 +15,8 @@ The application is built using a combination of the following technologies:
 
 No frameworks or libraries were used. :)
 
-
-## Installation
-
 ## User Stories & Flowchart
 
-<img src="https://github.com/Stephenice/Tenancy_Application_Form/blob/main/src/images/Untitled%20(2).png"  alt="javascript" width="600" height="400"/>
+<img src="https://github.com/Stephenice/Tenancy_Application_Form/blob/main/src/images/Untitled%20(2).png"  alt="javascript" width="800" height="500"/>
+
+## Installation
