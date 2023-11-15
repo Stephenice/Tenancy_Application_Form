@@ -1,17 +1,10 @@
 <?php
-
-session_start();
-
-// Redirect if the user is not logged in
-if (!isset($_SESSION['userid'])) {
-    header('location: index.php');
-    exit();
-}
+include 'session_login.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     require_once "dbconn.php";
 
-    // Function to sanitize input data
+    // Sanitize input data
     function cleanInput($data)
     {
         return htmlspecialchars(trim($data));
